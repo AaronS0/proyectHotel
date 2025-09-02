@@ -1,0 +1,50 @@
+[
+    {
+        "numero": "101",
+        "tipo": "Sencilla",
+        "precio": 50,
+        "estado": "Disponible"
+    },
+    {
+        "numero": "102",
+        "tipo": "Sencilla",
+        "precio": 50,
+        "estado": "Disponible"
+    },
+    {
+        "numero": "201",
+        "tipo": "Doble",
+        "precio": 120,
+        "estado": "Disponible"
+    },
+    {
+        "numero": "202",
+        "tipo": "Doble",
+        "precio": 120,
+        "estado": "ocupada"
+    },
+    {
+        "numero": "301",
+        "tipo": "Familiar",
+        "precio": 180,
+        "estado": "Disponible"
+    },
+    {
+        "numero": "302",
+        "tipo": "Familiar",
+        "precio": 180,
+        "estado": "Disponible"
+    },
+    {
+        "numero": "401",
+        "tipo": "Suite",
+        "precio": 250,
+        "estado": "ocupada"
+    },
+    {
+        "numero": "402",
+        "tipo": "Suite",
+        "precio": 250,
+        "estado": "disponible"
+    }
+]
